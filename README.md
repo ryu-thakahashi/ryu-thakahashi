@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the University of Tokyo and studying assortativity of altruism in social networks as PhD students in department of social psychology.
+- 🌱 I’m currently learning network analysis, agent-based simulation, and bayesian inferences.
+- 📫 How to reach me: ryu.takahashi2718@gmail.com
+
+
 <!--
 **ryu-thakahashi/ryu-thakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
